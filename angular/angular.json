@@ -98,7 +98,7 @@
           "builder": "angular-cli-ghpages:deploy",
           "options": {
             "branch": "gh-pages",
-            "repo": "https://github.com/mobioalex/naiss24.github.com.git/"
+            "repo": "https://github.com/mobioalex/naiss24.github.com.git"
           }
 }
       }
